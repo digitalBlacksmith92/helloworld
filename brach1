@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+title>Bootstrap Example</title>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Latest compiled and minified CSS -->
@@ -15,7 +17,15 @@
 
 <body>
 
-<h1>helloworld</h1>
-</body>
-</html>
+<div class="container">
+<div class="col-sm-4">
+<h1> Welcome </h2>
+<h2> 404 </h2>
+<p>site under-construction</p>
+</div>
+<div class="col-sm-8">
+<p> wil be back soon <p>
+</div>
+
+
 
